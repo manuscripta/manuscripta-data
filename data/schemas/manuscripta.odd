@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TEI P5 Customization and Encoding Guidelines for Greek Manuscripts in Sweden</title>
+                <title>TEI P5 Customization and Encoding Guidelines for Manuscripta – A Digital Catalogue of Manuscripts in Sweden</title>
                 <author xml:id="PG">Patrik Granholm</author>
                 <author xml:id="EN">Eva Nyström</author>
             </titleStmt>
