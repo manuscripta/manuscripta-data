@@ -28,10 +28,10 @@
             <divGen type="toc" xml:id="toc" />
             <div xml:id="introduction">
                 <head>Introduction</head>
-                <p>This TEI P5 ODD Customization for the cataloguing project <hi rend="italic">Greek Manuscripts in Sweden</hi> was created by Patrik Granholm and Eva Nyström, and is released under a <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ref>.</p>
+                <p>This TEI P5 ODD Customization for <hi rend="italic">Manuscripta – A Digital Catalogue of Manuscripts in Sweden</hi> was created by Patrik Granholm and Eva Nyström, and is released under a <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ref>.</p>
             </div>
             <div xml:id="phraselevel">
-                <head>Phrase-level Elements</head>
+                <head xml:lang="en">Phrase-level Elements</head>
                 <div xml:id="foreign">
                     <head>Foreign Phrases and Words</head>
                     <p>Phrases or words in other languages than English must be tagged by adding the <att>xml:lang</att> attribute to the element enclosing the text, or where no other element is available with a <gi>foreign</gi> element and a <att>xml:lang</att> attribute. 
