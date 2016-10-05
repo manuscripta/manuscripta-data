@@ -32,6 +32,7 @@
             </div>
             <div xml:id="phraselevel">
                 <head xml:lang="en">Phrase-level Elements</head>
+                <head xml:lang="sv">Fraselement</head>
                 <div xml:id="foreign">
                     <head>Foreign Phrases and Words</head>
                     <p>Phrases or words in other languages than English must be tagged by adding the <att>xml:lang</att> attribute to the element enclosing the text, or where no other element is available with a <gi>foreign</gi> element and a <att>xml:lang</att> attribute. 
